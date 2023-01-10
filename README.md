@@ -1,2 +1,3 @@
-Nick Rinaldi; nickrinald
-UChicago CS Git Tutoriali
+Nick Rinaldi; nickrinaldi
+UChicago CS Git Tutorial
+Git is pretty cool
